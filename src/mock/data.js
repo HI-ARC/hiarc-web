@@ -9,19 +9,19 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: '',
-  name: '',
-  subtitle: '',
+  title: 'HI-ARC',
+  name: 'HongIk Algorithm Research Club',
+  subtitle: 'Department of Computer Engineering, Hongik University',
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'about_photo.jpg',
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  records: 'https://wehavetomakerecordspage.com',
 };
 
 // PROJECTS DATA
@@ -67,23 +67,13 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'linkedin',
-      url: '',
+      name: 'facebook',
+      url: 'https://www.facebook.com/hongikuniv.hiarc',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/HI-ARC',
     },
   ],
 };
