@@ -21,3 +21,8 @@ npm, Node.js, Gatsby가 설치되어있지 않다면 먼저 설치하여야 합�
    ```
 
 3. 웹브라우저를 이용하여 `https://localhost:8000`으로 접속합니다.
+
+## 배포
+
+현재 Netlify 자동 배포 설정이 되어있습니다. Netlify와 연동 되어있는 계정은 hiarc-official 입니다.  
+배포 설정을 변경하고 싶다면 Netlify에서 hiarc-official 계정으로 로그인하세요.
