@@ -9,9 +9,9 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: 'HI-ARC',
-  name: 'HongIk Algorithm Research Club',
-  subtitle: 'Department of Computer Engineering, Hongik University',
+  title: '',
+  name: '',
+  subtitle: '',
   cta: '',
 };
 
@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  records: 'https://wehavetomakerecordspage.com',
+  records: '/records',
 };
 
 // PROJECTS DATA
