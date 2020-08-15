@@ -15,9 +15,9 @@ export default () => {
     <>
       <Helmet>
         <meta charSet="utf-8" />
-        <title>HI-ARC | Records</title>
+        <title>HI-ARC | History</title>
         <html lang={lang || 'en'} />
-        <meta name="description" content="Records" />
+        <meta name="description" content="History" />
       </Helmet>
       <section id="hero" className="jumbotron">
         <Container>
@@ -26,14 +26,18 @@ export default () => {
               <span role="img" aria-label="emoji">
                 👩‍💻
               </span>{' '}
-              HI-ARC Records{' '}
+              HI-ARC History{' '}
               <span role="img" aria-label="emoji">
                 🧑‍💻
               </span>
             </h1>
-            <h3>
-              {'<'}여기에 연혁이 들어가야 합니다{'>'}
-            </h3>
+            <h1>소개</h1>
+            <h2>
+              HI-ARC는 HongIk Algorithm Research Club의 약자로, 2017년 창립된 홍익대학교
+              컴퓨터공학과 소속 학회입니다.
+            </h2>
+            <br />
+            <h1>활동 기록</h1>
             <br />
           </Fade>
           <Fade bottom duration={1000} delay={1000} distance="30px">

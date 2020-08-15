@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  records: '/records',
+  history: '/history',
 };
 
 // PROJECTS DATA
