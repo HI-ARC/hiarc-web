@@ -40,14 +40,6 @@ const Footer = () => {
           </a>
           <br />
           edited by{' '}
-          <a href="https://github.com/14hhan" target="_blank" rel="noopener noreferrer">
-            hywn
-          </a>{' '}
-          end{' '}
-          <a href="https://github.com/dicohy27" target="_blank" rel="noopener noreferrer">
-            dicohy27
-          </a>{' '}
-          from{' '}
           <a href="https://github.com/hi-arc" target="_blank" rel="noopener noreferrer">
             HI-ARC
           </a>{' '}
