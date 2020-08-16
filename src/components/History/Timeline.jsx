@@ -1,6 +1,5 @@
 import React from 'react';
 import Fade from 'react-reveal/Fade';
-import { Link } from 'react-scroll';
 import { makeStyles } from '@material-ui/core/styles';
 import Timeline from '@material-ui/lab/Timeline';
 import TimelineItem from '@material-ui/lab/TimelineItem';
@@ -187,12 +186,6 @@ function CustomizedTimeline() {
               </TimelineContent>
             </TimelineItem>
           </Timeline>
-          <br />
-          <p className="hero-cta justify-content-center">
-            <Link className="cta-btn cta-btn--hero" to="/">
-              Go Home
-            </Link>
-          </p>
         </Fade>
       </section>
     </>
