@@ -122,11 +122,11 @@ const Activities = () => {
                     distance="30px"
                   >
                     <div className="project-wrapper__text">
-                      <h3 className="project-wrapper__text-title">{title || 'Sinchon ICPC'}</h3>
+                      <h3 className="project-wrapper__text-title">{title || 'ICPC Sinchon'}</h3>
                       <div>
                         <p>
                           {info ||
-                            'HI-ARC는 연세대, 이화여대, 서강대, 숙명여대와 함께 운영하는 연합 동아리 Sinchon ICPC 소속입니다. 매번 방학 기간을 이용해 연합 스터디와 합동 캠프, 프로그래밍 대회 등을 진행하고 있습니다. 이외에도 Slack 등을 통하여 다양한 정보와 지식을 함께 교류해 나가고 있습니다.'}
+                            'HI-ARC는 연세대, 이화여대, 서강대, 숙명여대와 함께 운영하는 동아리 연합 ICPC Sinchon 소속입니다. 매번 방학 기간을 이용해 연합 스터디와 합동 캠프, 프로그래밍 대회 등을 진행하고 있습니다. 이외에도 Slack 등을 통하여 다양한 정보와 지식을 함께 교류해 나가고 있습니다.'}
                         </p>
                         <p className="mb-4">{info2 || ''}</p>
                       </div>
