@@ -29,7 +29,7 @@ const Header = () => {
             {title || 'HI-ARC'}{' '}
             <span className="text-color-main">{name || 'HongIk Algorithm Research Club'}</span>
             <br />
-            {subtitle || 'Hongik University'}
+            {subtitle || '홍익대학교 컴퓨터공학과 알고리즘 학회'}
           </h1>
         </Fade>
         <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={1000} distance="30px">
