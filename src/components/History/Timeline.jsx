@@ -185,6 +185,88 @@ function CustomizedTimeline() {
                 </Paper>
               </TimelineContent>
             </TimelineItem>
+            <TimelineItem>
+              <TimelineOppositeContent>
+                <Typography variant="h3">2020</Typography>
+              </TimelineOppositeContent>
+              <TimelineSeparator>
+                <TimelineDot />
+                <TimelineConnector />
+              </TimelineSeparator>
+              <TimelineContent />
+            </TimelineItem>
+            <TimelineItem>
+              <TimelineSeparator>
+                <TimelineDot variant="outlined" />
+                <TimelineConnector />
+              </TimelineSeparator>
+              <TimelineContent>
+                <Paper elevation={3} className={classes.paper}>
+                  <Typography align="left" variant="h4" component="h1">
+                    UCPC 예선
+                  </Typography>
+                  <Typography align="left" variant="h5">
+                    28th (본선 진출) / 율촌 / 정연두, 김효원, 정재현
+                  </Typography>
+                </Paper>
+              </TimelineContent>
+            </TimelineItem>
+            <TimelineItem>
+              <TimelineSeparator>
+                <TimelineDot variant="outlined" />
+                <TimelineConnector />
+              </TimelineSeparator>
+              <TimelineContent>
+                <Paper elevation={3} className={classes.paper}>
+                  <Typography align="left" variant="h4" component="h1">
+                    UCPC 본선
+                  </Typography>
+                  <Typography align="left" variant="h5">
+                    34th / 율촌 / 정연두, 김효원, 정재현
+                  </Typography>
+                </Paper>
+              </TimelineContent>
+            </TimelineItem>
+            <TimelineItem>
+              <TimelineSeparator>
+                <TimelineDot variant="outlined" />
+                <TimelineConnector />
+              </TimelineSeparator>
+              <TimelineContent>
+                <Paper elevation={3} className={classes.paper}>
+                  <Typography align="left" variant="h4" component="h1">
+                    SUAPC – Div. 1
+                  </Typography>
+                  <Typography align="left" variant="h5">
+                    8th / 사과는 맛있어 / 김경근, 정재현, 백지웅
+                  </Typography>
+                </Paper>
+              </TimelineContent>
+            </TimelineItem>
+            <TimelineItem>
+              <TimelineSeparator>
+                <TimelineDot variant="outlined" />
+                <TimelineConnector />
+              </TimelineSeparator>
+              <TimelineContent>
+                <Paper elevation={3} className={classes.paper}>
+                  <Typography align="left" variant="h4" component="h1">
+                    SUAPC – Div. 2
+                  </Typography>
+                  <Typography align="left" variant="h5">
+                    4th / 기시디한테 롤 진 팀 / 노정윤, 김도현, 김연욱
+                  </Typography>
+                  <Typography align="left" variant="h5">
+                    6th /
+                    안녕히계세요여러분전이세상의모든굴레와속박을벗어던지고제행복을찾아떠납니다여러분도행복하세요
+                    / 고민재, 권예빈, 권찬
+                  </Typography>
+                  <Typography align="left" variant="h5">
+                    8th / team protocol / 반보영, 박장성, 엄경호
+                  </Typography>
+                </Paper>
+              </TimelineContent>
+            </TimelineItem>
           </Timeline>
         </Fade>
       </section>
