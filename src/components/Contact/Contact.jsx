@@ -15,7 +15,8 @@ const Contact = () => {
         <Fade bottom duration={1000} delay={800} distance="30px">
           <div className="contact-wrapper">
             <p className="contact-wrapper__text">
-              {cta || '문의 사항은 언제든 환영입니다! 아래의 카카오톡 채널을 통해 부탁드립니다.'}
+              {cta ||
+                '문의 사항은 언제든 환영입니다! 아래의 카카오톡 채널 또는 메일을 통해 부탁드립니다.'}
             </p>
             <a
               target="_blank"

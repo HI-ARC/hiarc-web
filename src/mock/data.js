@@ -48,6 +48,11 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
+      name: 'envelope',
+      url: 'mailto:hiarc.official@gmail.com',
+    },
+    {
+      id: nanoid(),
       name: 'facebook',
       url: 'https://www.facebook.com/hongikuniv.hiarc',
     },
