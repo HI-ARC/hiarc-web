@@ -180,7 +180,7 @@ function CustomizedTimeline() {
                     ACM-ICPC Seoul Region
                   </Typography>
                   <Typography align="left" variant="h5">
-                    Honorable mention / Advanced Algorithm Study / 김종욱, 정연두, 정윤석
+                    Sixteenth Place / Advanced Algorithm Study / 김종욱, 정연두, 정윤석
                   </Typography>
                 </Paper>
               </TimelineContent>
