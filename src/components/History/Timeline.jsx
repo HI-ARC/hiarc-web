@@ -161,10 +161,26 @@ function CustomizedTimeline() {
               <TimelineContent>
                 <Paper elevation={3} className={classes.paper}>
                   <Typography align="left" variant="h4" component="h1">
-                    UCPC
+                    UCPC 예선
                   </Typography>
                   <Typography align="left" variant="h5">
                     35th (본선 진출) / 삼성님들충성충성^^7 / 김종욱, 정연두, 정윤석
+                  </Typography>
+                </Paper>
+              </TimelineContent>
+            </TimelineItem>
+            <TimelineItem>
+              <TimelineSeparator>
+                <TimelineDot variant="outlined" />
+                <TimelineConnector />
+              </TimelineSeparator>
+              <TimelineContent>
+                <Paper elevation={3} className={classes.paper}>
+                  <Typography align="left" variant="h4" component="h1">
+                    UCPC 본선
+                  </Typography>
+                  <Typography align="left" variant="h5">
+                    32nd / 삼성님들충성충성^^7 / 김종욱, 정연두, 정윤석
                   </Typography>
                 </Paper>
               </TimelineContent>
